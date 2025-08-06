@@ -1,0 +1,6 @@
+flask
+langgraph
+langchain-google-genai
+langchain-community
+tavily-python
+wikipedia
